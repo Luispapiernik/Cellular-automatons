@@ -1,2 +1,3 @@
-# python-project
-This is a template for python projects
+# Cellular Automatons
+
+A collection of cellular automatons that use the PyCellsLib library.
